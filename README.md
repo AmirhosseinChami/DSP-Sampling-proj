@@ -14,6 +14,10 @@ The main goal of this project is to demonstrate how to sample and reconstruct a 
 ## App Designer Screenshots
 [Insert app designer screenshots here]
 
+## Contributing
+
+If you have any improvements or suggestions for the DSP sampling and reconstrustion project, feel free to fork the repository and create a pull request. Any contributions are welcome!
+
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use our code for personal or commercial purposes but please give us credit by referencing this repository.
 
