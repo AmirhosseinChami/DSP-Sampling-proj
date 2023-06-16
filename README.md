@@ -6,7 +6,7 @@ This Digital Signal Processing (DSP) project focuses on the sampling and reconst
 ## Contributors
 - [Amirhossein Chami](https://github.com/AmirhosseinChami)
 - [Mahdi Zamani](https://github.com/Mahdizamanii)
-- Mohammadhossein Hozhabr 
+- [Mohammadhossein Hozhabr](https://github.com/Mohammadhosseinhozhabr)
 
 ## Overview
 The main goal of this project is to demonstrate how to sample and reconstruct a voice signal or function input using various techniques. The repo contains MATLAB code for both analog-to-digital conversion (ADC) and digital-to-analog conversion (DAC), which are commonly used in DSP applications. In addition, we have implemented an algorithm that analyzes the spectral content of a given voice signal to determine whether it belongs to a male or female speaker.
