@@ -1,6 +1,3 @@
-# DSP-Sampling-proj
-it's DSP course project about sampling and reconstruction a signal 
-Sure, here is a sample README file that you can use for your GitHub repository:
 
 # DSP Project: Sampling and Reconstruction of Voice Signals
 
