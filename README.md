@@ -1,4 +1,4 @@
-```
+
 # DSP Project: Voice Signal Sampling and Reconstruction
 
 This Digital Signal Processing (DSP) project focuses on the sampling and reconstruction of voice signals, with an additional feature that determines the gender of the speaker in a given voice signal.
@@ -18,5 +18,5 @@ The main goal of this project is to demonstrate how to sample and reconstruct a 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use our code for personal or commercial purposes but please give us credit by referencing this repository.
 
 We hope you find this DSP project helpful! Please let us know if you have any questions or feedback.
-``` 
+ 
 
